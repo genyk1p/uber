@@ -1,0 +1,43 @@
+.bi-1x {
+    font-size: 1em;
+  }
+  
+.bi-2x {
+    font-size: 2em;
+    }
+
+.bi-3x {
+    font-size: 3em;
+    }
+
+.bi-4x {
+    font-size: 4em;
+    }
+
+.bi-5x {
+    font-size: 5em;
+    }
+
+.bi-10x {
+    font-size: 10em;
+    }
+.bi-xs {
+    font-size: 0.75rem;
+    }
+
+.bi-sm {
+    font-size: 0.875rem;
+    }
+
+.bi-lg {
+    font-size: 1.25rem;
+    }
+.bi-lg1 {
+    font-size: 1.35rem;
+    }
+.bi-lg2 {
+    font-size: 1.45rem;
+    }
+.bi-lg3 {
+    font-size: 1.55rem;
+    }
